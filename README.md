@@ -29,7 +29,7 @@ My name is ***Abhinav Singh Chauhan***, I am a cooperative, energetic and self-m
 
 ## 📊 My Github Stats
 <p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MYSTYX7&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="75%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MYSTYX7&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="50%">
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MYSTYX7&layout=compact&theme=vision-friendly-dark&hide_border=true">
 </p>
 
