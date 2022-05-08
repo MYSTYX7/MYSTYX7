@@ -29,11 +29,14 @@ My name is ***Abhinav Singh Chauhan***, I am a cooperative, energetic and self-m
 
 ## Languages, Frameworks & Libraries:
 <p align = "center">
-<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"> <img src = "https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src = "https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src = "https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"> <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src = "https://img.shields.io/badge/Flutter-027DFD?style=for-the-badge&logo=flutter&logoColor=white"> <img src = "https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"> <img src = "https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src = "https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src = "https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
+</p>
+<p align = "center">
+  <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src = "https://img.shields.io/badge/Flutter-027DFD?style=for-the-badge&logo=flutter&logoColor=white"> <img src = "https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
 ## 📊 My Github Stats
 <p align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MYSTYX7&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MYSTYX7&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats">
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MYSTYX7&layout=compact&theme=vision-friendly-dark&hide_border=true" width="41%">
 </p>
