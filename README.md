@@ -1,6 +1,10 @@
-<h1 align="center">Hey there.. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<p align="center">
+  <img align="left" src="https://komarev.com/ghpvc/?username=MYSTYX7&color=orange&style=for-the-badge&label=VIEWS" alt="Abhinav"/>
+  <img align="right" src="https://img.shields.io/github/followers/MYSTYX7?color=orange&label=Followers&style=for-the-badge" alt="Abhinav" />
+  <h1 align="center">Hey there.. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+</p>
 
-My name is ***Abhinav Singh Chauhan***, I am a cooperative, energetic and self-motivated, believes in an optimistic technology-driven future.
+My name is ***Abhinav Singh Chauhan***, I'm energetic, cooperative and self-motivated, believes in an optimistic technology-driven future.
 
 ## 🙋‍♂️ About Me
 - 🔭 Currently working on becoming **Full Stack Web3 Developer**.
@@ -29,7 +33,7 @@ My name is ***Abhinav Singh Chauhan***, I am a cooperative, energetic and self-m
 
 ## 📊 My Github Stats
 <p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MYSTYX7&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MYSTYX7&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MYSTYX7&layout=compact&theme=vision-friendly-dark&hide_border=true">
 </p>
 
