@@ -7,17 +7,19 @@
 My name is ***Abhinav Singh Chauhan***, I'm energetic, cooperative and self-motivated, believes in an optimistic technology-driven future.
 
 ## 🙋‍♂️ About Me
-- 🔭 Currently working on becoming **Full Stack Web3 Developer**.
-- 🚀 I’m currently learning **React** and **Node.JS**.
-- 👯 I’m looking to collaborate on **Web3 Projects**.
-- 🚀 Visit **[My Portfolio Website](https://abhisc.me)**
-- ⚡ Fun Fact: I love to explore new technologies.
-- 📖 Sometimes I write about some topics related to Web Development on **Medium**. 
+- 🀄 Currently working as **Web Development Consultant**.
+- 🔭 Learning **Full Stack Mobile Developer**.
+- 🚀 I’m currently learning **Next.js** and **Flutter**.
+- 🔥 Visit **[My Portfolio Website](https://abhisc.me)**
+- ⚡ I love to explore new technologies.
+- 📖 Sometimes I write about topics related to Web Development on **Medium**. 
 
-## ✨ 2022 Goals
-  - [ ] Complete Portfolio Website
+## ✨ 2023 Goals
+  - [x] Complete Portfolio Website
+  - [x] Get a Job
+  - [x] Learn Flutter Development
   - [ ] Learn Web3 Development
-  - [ ] Build some Blockchain projects
+  - [ ] Become a Startup founder
 
 ## 🧾 My Articles
   - [Basics of Node.JS](https://medium.com/@mystyx/basics-of-node-js-de60036fdc4)
