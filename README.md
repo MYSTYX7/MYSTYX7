@@ -8,7 +8,7 @@ My name is ***Abhinav Singh Chauhan***, I'm energetic, cooperative and self-moti
 
 ## 🙋‍♂️ About Me
 - 🀄 Currently working as **Web Development Consultant**.
-- 🔭 Learning **Full Stack Mobile Developer**.
+- 🔭 Learning **Full Stack Mobile Developement**.
 - 🚀 I’m currently learning **Next.js** and **Flutter**.
 - 🔥 Visit **[My Portfolio Website](https://abhisc.me)**
 - ⚡ I love to explore new technologies.
