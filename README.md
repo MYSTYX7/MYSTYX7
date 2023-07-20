@@ -19,7 +19,7 @@ My name is ***Abhinav Singh Chauhan***, I'm energetic, cooperative and self-moti
   - [x] Get a Job
   - [x] Learn Flutter Development
   - [ ] Contribute more to Open Source projects
-  - [ ] Become a Startup founder
+  - [ ] Become a Startup founder (More Futurisitic)
 
 ## 🧾 Blog Posts
   - [JavaScript Destructuring (Basics)](https://medium.com/p/c495bf868729) (Published in TowardsDev website)
