@@ -18,12 +18,12 @@ My name is ***Abhinav Singh Chauhan***, I'm energetic, cooperative and self-moti
   - [x] Complete Portfolio Website
   - [x] Get a Job
   - [x] Learn Flutter Development
-  - [ ] Learn Web3 Development
+  - [ ] Contribute more to Open Source projects
   - [ ] Become a Startup founder
 
-## 🧾 My Articles
-  - [Basics of Node.JS](https://medium.com/@mystyx/basics-of-node-js-de60036fdc4)
+## 🧾 Blog Posts
   - [JavaScript Destructuring (Basics)](https://medium.com/p/c495bf868729) (Published in TowardsDev website)
+  - [Basics of Node.JS](https://medium.com/@mystyx/basics-of-node-js-de60036fdc4)
 
 ## 🛠️ Languages, Frameworks & Libraries:
 <p align = "center">
